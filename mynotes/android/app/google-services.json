@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "472977030813",
+    "project_id": "mynotes-394021",
+    "storage_bucket": "mynotes-394021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472977030813:android:15050b14a14e7ac4dbde74",
+        "android_client_info": {
+          "package_name": "com.dominestrator300.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472977030813-ihi2gvkkpkasiqpqo7nnubf7nuglb6gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCryUf5ySMNgB77JwwZXpqN5njdZkx-0-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472977030813-ihi2gvkkpkasiqpqo7nnubf7nuglb6gc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472977030813-etl55t8hf34ifd35nplq092lra965v5c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dominestrator300.mynotes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
